@@ -2,7 +2,6 @@
 title: Brent@shannet.bonerdog.org
 author: Memeplatter
 layout: post
-permalink: /?p=36
 original_author:
   - memeplatter@thegamingfreakz.com
 categories:
