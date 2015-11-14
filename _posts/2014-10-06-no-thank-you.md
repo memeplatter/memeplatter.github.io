@@ -2,7 +2,6 @@
 title: No thank you.
 author: Memeplatter
 layout: post
-permalink: /?p=87
 original_author:
   - memeplatter@thegamingfreakz.com
 categories:

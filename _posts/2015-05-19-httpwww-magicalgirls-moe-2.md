@@ -2,7 +2,6 @@
 title: http://www.magicalgirls.moe
 author: Memeplatter
 layout: post
-permalink: /?p=143
 original_author:
   - memeplatter@discordantgamers.com
 categories:

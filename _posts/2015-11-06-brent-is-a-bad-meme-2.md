@@ -2,7 +2,6 @@
 title: Brent is a bad meme
 author: Memeplatter
 layout: post
-permalink: /?p=158
 original_author:
   - memeplatter@discordantgamers.com
 categories:

@@ -2,7 +2,6 @@
 title: fuk u kapaa
 author: Memeplatter
 layout: post
-permalink: /?p=110
 original_author:
   - memeplatter@thegamingfreakz.com
 categories:

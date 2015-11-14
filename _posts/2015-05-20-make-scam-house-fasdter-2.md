@@ -2,7 +2,6 @@
 title: MAKE SCAM HOUSE FASDTER
 author: Memeplatter
 layout: post
-permalink: /?p=147
 original_author:
   - memeplatter@discordantgamers.com
 categories:

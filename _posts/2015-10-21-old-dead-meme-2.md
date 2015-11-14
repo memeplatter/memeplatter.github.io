@@ -2,7 +2,6 @@
 title: Old dead meme
 author: Memeplatter
 layout: post
-permalink: /?p=155
 original_author:
   - memeplatter@discordantgamers.com
 categories:

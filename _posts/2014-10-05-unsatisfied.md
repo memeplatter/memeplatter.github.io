@@ -2,7 +2,6 @@
 title: Resatisfied
 author: Memeplatter
 layout: post
-permalink: /?p=60
 original_author:
   - memeplatter@thegamingfreakz.com
 categories:

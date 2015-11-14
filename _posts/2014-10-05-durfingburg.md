@@ -2,7 +2,6 @@
 title: DurfingBurg
 author: Memeplatter
 layout: post
-permalink: /?p=45
 original_author:
   - memeplatter@thegamingfreakz.com
 categories:

@@ -2,7 +2,6 @@
 title: Niggler John
 author: Memeplatter
 layout: post
-permalink: /?p=50
 original_author:
   - memeplatter@thegamingfreakz.com
 categories:

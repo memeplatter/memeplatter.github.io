@@ -2,7 +2,6 @@
 title: Satisfied!
 author: Memeplatter
 layout: post
-permalink: /?p=100
 original_author:
   - memeplatter@thegamingfreakz.com
 categories:

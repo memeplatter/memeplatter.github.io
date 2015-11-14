@@ -2,7 +2,6 @@
 title: Dear Kim John uno
 author: Memeplatter
 layout: post
-permalink: /?p=156
 original_author:
   - memeplatter@discordantgamers.com
 categories:

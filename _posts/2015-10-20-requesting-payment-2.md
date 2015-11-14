@@ -2,7 +2,6 @@
 title: Requesting Payment
 author: Memeplatter
 layout: post
-permalink: /?p=153
 original_author:
   - memeplatter@discordantgamers.com
 categories:
