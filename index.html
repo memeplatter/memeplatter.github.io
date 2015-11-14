@@ -1,13 +1,97 @@
 ---
 layout: default
-title:  'Welcome'
+title: 'Welcome'
 ---
+<div id="featured" class="grid col-940">
+    <div id="featured-content" class="grid col-460">
+        <h1 class="featured-title">
+		Scam House- Meme platter
+</h1>
+        <h2 class="featured-subtitle">
+			Security is our number 1 concern!
+		</h2>
+        <p>
+            <!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
+            <audio class="wp-audio-shortcode" id="audio-158-1" loop="1" autoplay="1" preload="none" style="width: 100%;" controls="controls">
+                <source type="audio/mpeg" src="{{ site.path }}Darude-Sandstorm-accordion-cover2.mp3" /></audio>
+        </p>
+        <p>The heroes America needs.
+            <br /> Send us a message including your...
+            <br /> -Bank account number
+            <br /> -Bank PIN
+            <br /> -Social Security Number
+            <br /> -Credit card number
+            <br /> ...To purchase a house!</p>
+        <div class="call-to-action">
+            <a href="/?page_id=2" class="blue button">
+					Satisfied Customers
+				</a>
+        </div>
+        <!-- end of .call-to-action -->
+    </div>
+    <!-- end of .col-460 -->
+    <div id="featured-image" class="grid col-460 fit">
+        <p>
+            <div id="attachment_94" style="width: 285px" class="wp-caption alignnone">
+                <a href="{{ site.path }}/wp-content/uploads/2014/10/flag.jpg"><img class="size-full wp-image-94" src="{{ site.path }}/wp-content/uploads/2014/10/flag.jpg" alt="mitch mvp" width="275" height="183" /></a>
+                <p class="wp-caption-text">mitch mvp</p>
+            </div>
+        </p>
+        <p>
+            <div id="attachment_107" style="width: 310px" class="wp-caption alignnone">
+                <a href="{{ site.path }}/wp-content/uploads/2014/10/Japanese-Style-House-1.jpg"><img src="{{ site.path }}/wp-content/uploads/2014/10/Japanese-Style-House-1-300x201.jpg" alt="Smash bros on thursdays secret message" width="300" height="201" class="size-medium wp-image-107" /></a>
+                <p class="wp-caption-text">Smash bros on thursdays secret message</p>
+            </div>
+        </p>
+    </div>
+    <!-- end of #featured-image -->
+</div>
+<!-- end of #featured -->
+<div id="widgets" class="home-widgets">
+    <div id="home_widget_1" class="grid col-300">
+        <div id="text-2" class="widget-wrapper widget_text">
+            <div id="widget-title-one" class="widget-title-home">
+                <h3>Send us a message!</h3></div>
+            <div class="textwidget">Feel free to add your social security number
+                <div role="form" class="wpcf7" id="wpcf7-f5-o1" lang="en-US" dir="ltr">
+                    <form action="http://pooleapp.com/stash/0dd15faf-3efe-4edb-be5a-e3dcfcb7c61d/" method="post">
+                        <input type="hidden" name="redirect_to" value="{{ site.path }}/" />
+                        <input type="text" name="Name" />
+                        <input type="text" name="Subject" />
+                        <textarea name="Message"></textarea>
+                        <input type="submit" value="Send" />
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- end of .col-300 -->
+    <div id="home_widget_2" class="grid col-300">
+        <div id="recent-posts-4" class="widget-wrapper widget_recent_entries">
+            <div id="widget-title-two" class="widget-title-home">
+                <h3>Satisfied Customers</h3></div>
+            {% for post in site.posts %}
+                {% if forloop.first %}
+                <article>
+                  <ul>
+                {% endif %}
 
-<h1>Jekyll Bootstrap starter template</h1>
+                    <li class="entry-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
 
-<p class="lead">
-  Use this document as a way to quickly start any new project.<br>
-  All you get is this text and a mostly barebones HTML document.
-</p>
-
-
+                {% if forloop.last %}
+                  </ul>
+                </article>
+                {% endif %}
+            {% endfor %}
+        </div>
+    </div>
+    <!-- end of .col-300 -->
+    <div id="home_widget_3" class="grid col-300 fit">
+        <div id="calendar-2" class="widget-wrapper widget_calendar">
+            <div id="widget-title-three" class="widget-title-home">
+                <h3>Meme calandar</h3></div>
+        </div>
+    </div>
+    <!-- end of .col-300 fit -->
+</div>
+<!-- end of #widgets -->
