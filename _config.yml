@@ -21,7 +21,8 @@ sass:
   style:    expanded
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:title/
+#permalink:   /:title/
+permalink: date
 
 defaults:
   -
