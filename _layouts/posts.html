@@ -1,0 +1,21 @@
+---
+layout: default
+---
+<article class="posts">
+    <div id="postwrapper" class="clearfix" style="backgroud-color: #ffffff !important;">
+        <!--<h1 class="page-heading">Posts</h1>-->
+
+        <div class="posts">
+            {% for post in site.posts %}
+            <article class="post">
+
+                <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+                <div class="post-meta">Posted on <time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%b %-d, %Y" }}</time>{% if page.author %} by <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p></div>
+                <div class="entry">
+                    {{ post.content }}
+                </div>
+            </article>
+            {% endfor %}
+        </div>
+    </div>
+</article>

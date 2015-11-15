@@ -1,15 +1,21 @@
 ---
 layout: page
-title: About
+title: Scam House Motto
 permalink: /about/
+author: trent
 ---
+*Due to popular request, the site now features an &#8216;About Us&#8217; tab. Thanks for the feedback, America.  
+(Most popular customer: Isis)*
 
-Some information about you!
+&nbsp;
 
-### More Information
+Us at Scam House believe in the American dream. We believe that any individual may be able to start from abject poverty, and move up through the social and economical ladders and arrive at a stage in his or her life where they must make a choice.
 
-A place to include any other types of information that you'd like to include about yourself.
+That choice is why We exist.
 
-### Contact me
+That choice is to decide on how to live the rest of your life.
 
-[email@domain.com](mailto:email@domain.com)
+That choice is Scam House.  
+We can offer you a full fledged unlimited access low cost house for virtually free.
+
+We aim to not just make better houses, but better people.

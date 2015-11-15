@@ -24,15 +24,15 @@
         <!-- .skip-container -->
         <div id="header">
             <div id="logo">
-                <span class="site-name"><a href="{{ site.path }}/" title="Scam House" rel="home">Scam House</a></span>
-                <span class="site-description">v3.00 &#8211; North Korea remake edition</span>
+                <span class="site-name"><a href="{{ site.path }}/" title="{{ site.title }}" rel="home">{{ site.title }}</a></span>
+                <span class="site-description">{{ site.description }}</span>
             </div>
             <!-- end of #logo -->
             <div class="main-nav">
                 <ul class="menu">
                     <li class="current_page_item"><a href="{{ site.path }}/">Home</a></li>
-                    <li class="page_item page-item-2"><a href="{{ site.path }}/?page_id=2">Satisfied Customers</a></li>
-                    <li class="page_item page-item-91"><a href="{{ site.path }}/?page_id=91">Scam House Motto</a></li>
+                    <li class="page_item page-item-2"><a href="{{ site.path }}/posts">Satisfied Customers</a></li>
+                    <li class="page_item page-item-91"><a href="{{ site.path }}/about">Scam House Motto</a></li>
                 </ul>
             </div>
         </div>
@@ -57,8 +57,8 @@
             </div>
             <!-- end of col-940 -->
             <div class="grid col-300 copyright">
-                &copy; 2015<a href="{{ site.path }}/" title="Scam House">
-				Scam House
+                &copy; 2015<a href="{{ site.path }}/" title="{{ site.title }}">
+				{{ site.title }}
 			</a>
             </div>
             <!-- end of .copyright -->
