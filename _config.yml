@@ -23,7 +23,12 @@ sass:
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:title/
 
-layout: post
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "post"
 
 # Amount of post to show on home page
 
