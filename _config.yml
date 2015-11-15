@@ -23,6 +23,8 @@ sass:
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:title/
 
+layout: post
+
 # Amount of post to show on home page
 
 include: [".htaccess"]
