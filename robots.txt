@@ -1,1 +1,1 @@
-sitemap = http://www.memeplatter.me/sitemap.xml
+sitemap: http://www.memeplatter.me/sitemap.xml
