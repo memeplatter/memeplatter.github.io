@@ -8,11 +8,11 @@ url:
 # Owner/author information
 
 # Background image to be tiled on all pages
-background: 
-     
+background:
+
 markdown:    kramdown
-#gems:
-#  - jekyll-sitemap
+gems:
+  - jekyll-sitemap
 #sass:
 #  sass_dir: _sass
 #  style: compressed
