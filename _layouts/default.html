@@ -4,57 +4,57 @@
 {% include head.html %}
 
 <body class="home blog custom-background front-page">
-    <div id="container" class="hfeed">
-        <!-- <div class="skip-container cf">
+  <div id="container" class="hfeed">
+    <!-- <div class="skip-container cf">
             <a class="skip-link screen-reader-text focusable" href="#content">&darr; Skip to Main Content</a>
         </div> -->
-        <!-- .skip-container -->
-        <div id="header">
-            <div id="logo">
-                <span class="site-name"><a href="{{ site.path }}/" title="{{ site.title }}" rel="home">{{ site.title }}</a></span>
-                <span class="site-description">{{ site.description }}</span>
-            </div>
-            <!-- end of #logo -->
-            <div class="main-nav">
-                <ul class="menu">
-                    <li class="current_page_item"><a href="{{ site.path }}/">Home</a></li>
-                    <li class="page_item page-item-2"><a href="{{ site.path }}/posts">Satisfied Customers</a></li>
-                    <li class="page_item page-item-91"><a href="{{ site.path }}/about">Scam House Motto</a></li>
-                </ul>
-            </div>
-        </div>
-        <!-- end of #header -->
-        <div id="wrapper" class="clearfix">
-            {{ content }}
-        </div>
-        <!-- end of #wrapper -->
+    <!-- .skip-container -->
+    <div id="header">
+      <div id="logo">
+        <span class="site-name"><a href="{{ site.path }}/" title="{{ site.title }}" rel="home">{{ site.title }}</a></span>
+        <span class="site-description">{{ site.description }}</span>
+      </div>
+      <!-- end of #logo -->
+      <div class="main-nav">
+        <ul class="menu">
+          <li class="current_page_item"><a href="{{ site.path }}/">Home</a></li>
+          <li class="page_item page-item-2"><a href="{{ site.path }}/posts">Satisfied Customers</a></li>
+          <li class="page_item page-item-91"><a href="{{ site.path }}/about">Scam House Motto</a></li>
+        </ul>
+      </div>
     </div>
-    <!-- end of #container -->
-    <div id="footer" class="clearfix">
-        <div id="footer-wrapper">
-            <div class="grid col-940">
-                <div class="grid col-540">
-                </div>
-                <!-- end of col-540 -->
-                <div class="grid col-380 fit">
-                    <ul class="social-icons"></ul>
-                    <!-- .social-icons -->
-                </div>
-                <!-- end of col-380 fit -->
-            </div>
-            <!-- end of col-940 -->
-            <div class="grid col-300 copyright">
-                &copy; 2015<a href="{{ site.path }}/" title="{{ site.title }}">
+    <!-- end of #header -->
+    <div id="wrapper" class="clearfix">
+      {{ content }}
+    </div>
+    <!-- end of #wrapper -->
+  </div>
+  <!-- end of #container -->
+  <div id="footer" class="clearfix">
+    <div id="footer-wrapper">
+      <div class="grid col-940">
+        <div class="grid col-540">
+        </div>
+        <!-- end of col-540 -->
+        <div class="grid col-380 fit">
+          <ul class="social-icons"></ul>
+          <!-- .social-icons -->
+        </div>
+        <!-- end of col-380 fit -->
+      </div>
+      <!-- end of col-940 -->
+      <div class="grid col-300 copyright">
+        &copy; 2015<a href="{{ site.path }}/" title="{{ site.title }}">
 				{{ site.title }}
 			</a>
-            </div>
-            <!-- end of .copyright -->
-            <!-- <div class="grid col-300 scroll-top"><a href="#scroll-top" title="scroll to top">&uarr;</a></div> -->
-            <!-- end .powered -->
-        </div>
-        <!-- end #footer-wrapper -->
+      </div>
+      <!-- end of .copyright -->
+      <!-- <div class="grid col-300 scroll-top"><a href="#scroll-top" title="scroll to top">&uarr;</a></div> -->
+      <!-- end .powered -->
     </div>
-    <!-- end #footer -->
+    <!-- end #footer-wrapper -->
+  </div>
+  <!-- end #footer -->
 </body>
 
 </html>
