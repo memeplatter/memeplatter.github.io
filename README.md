@@ -1,1 +1,3 @@
 one dead meme comming right up
+
+[![Build Status](https://travis-ci.org/memeplatter/memeplatter.github.io.svg?branch=master)](https://travis-ci.org/memeplatter/memeplatter.github.io)
