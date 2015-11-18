@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Scam House Motto
+date: 2014-10-15 01:05:42+00:00
 permalink: /about/
 author: trent
 ---
