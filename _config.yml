@@ -10,6 +10,8 @@ url:
 # Background image to be tiled on all pages
 background:
 
+disqus: memeplatter
+
 markdown:    kramdown
 gems:
   - jekyll-sitemap
