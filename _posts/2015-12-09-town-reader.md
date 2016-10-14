@@ -1,6 +1,6 @@
 ---
-title: 'Town Reader'
-date: '2015-12-09 12:57:23 UTC'
+title: Town Reader
+date: 2015-12-09 12:57:23 Z
 ---
 
 From: H0ld3n

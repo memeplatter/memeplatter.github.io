@@ -1,39 +1,49 @@
-title:            Scam House
-description:      v3.00 - North Korea remake edition
+---
+title: Scam House
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+  values:
+    layout: post
+description: v3.00 - North Korea remake edition
 encoding: utf-8
-# Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
-# When testing locally leave blank or use http://localhost:4000
-url:
-
-# Owner/author information
-
-# Background image to be tiled on all pages
-background:
-
+url: 
+background: 
 disqus: memeplatter
-
-markdown:    kramdown
+markdown: kramdown
 gems:
-  - jekyll-sitemap
-#sass:
-#  sass_dir: _sass
-#  style: compressed
+- jekyll-sitemap
 sass:
   sass_dir: css
-  style:    expanded
-
-# https://github.com/mojombo/jekyll/wiki/Permalinks
-#permalink:   /:title/
+  style: expanded
 permalink: pretty
-
-defaults:
-  -
-    scope:
-      path: "" # an empty string here means all files in the project
-    values:
-      layout: "post"
-
-# Amount of post to show on home page
-
-include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "vendor", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
+include:
+- ".htaccess"
+exclude:
+- lib
+- config.rb
+- Capfile
+- config
+- Gemfile
+- Gemfile.lock
+- README.md
+- LICENSE
+- log
+- Rakefile
+- Rakefile.rb
+- tmp
+- less
+- vendor
+- test
+- spec
+- Gruntfile.js
+- package.json
+- node_modules

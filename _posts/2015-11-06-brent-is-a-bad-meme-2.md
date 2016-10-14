@@ -1,12 +1,14 @@
 ---
 title: Brent is a bad meme
+date: 2015-11-06 00:00:00 Z
+categories:
+- Uncategorized
 author: Memeplatter
 layout: post
 original_author:
-  - memeplatter@discordantgamers.com
-categories:
-  - Uncategorized
+- memeplatter@discordantgamers.com
 ---
+
 From: BrentSucks774  
 Subject: Brent is a bad meme
 

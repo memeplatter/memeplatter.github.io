@@ -1,6 +1,6 @@
 ---
-title: 'i''ve never witnessed such a waste in time and/or effort'
-date: '2015-11-16 13:04:16 UTC'
+title: i've never witnessed such a waste in time and/or effort
+date: 2015-11-16 13:04:16 Z
 ---
 
 From: unsatisfied customer  

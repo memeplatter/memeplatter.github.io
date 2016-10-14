@@ -1,6 +1,6 @@
 ---
-title: 'Fuck you all'
-date: '2015-11-16 15:34:17 UTC'
+title: Fuck you all
+date: 2015-11-16 15:34:17 Z
 ---
 
 From: Fuck you all  

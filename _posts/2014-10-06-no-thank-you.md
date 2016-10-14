@@ -1,12 +1,14 @@
 ---
 title: No thank you.
+date: 2014-10-06 00:00:00 Z
+categories:
+- Uncategorized
 author: Memeplatter
 layout: post
 original_author:
-  - memeplatter@thegamingfreakz.com
-categories:
-  - Uncategorized
+- memeplatter@thegamingfreakz.com
 ---
+
 From: The Real Memer Brent (not a asian girl) how long can this be? can i just write my post in here? Drew is hitler and trent plz fix the site i think the memeplatter has gone too far from its orgins , its not even aobut the scam houses anymore  
 Subject: No thank you.
 

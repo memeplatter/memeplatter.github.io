@@ -1,6 +1,6 @@
 ---
-title: 'well we''re the meme team'
-date: '2015-11-16 12:50:37 UTC'
+title: well we're the meme team
+date: 2015-11-16 12:50:37 Z
 ---
 
 From: you heard of the dream team?  

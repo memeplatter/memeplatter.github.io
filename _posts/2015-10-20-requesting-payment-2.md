@@ -1,12 +1,14 @@
 ---
 title: Requesting Payment
+date: 2015-10-20 00:00:00 Z
+categories:
+- Uncategorized
 author: Memeplatter
 layout: post
 original_author:
-  - memeplatter@discordantgamers.com
-categories:
-  - Uncategorized
+- memeplatter@discordantgamers.com
 ---
+
 From: Kim John uno  
 Subject: Requesting Payment
 

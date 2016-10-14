@@ -1,6 +1,6 @@
 ---
-title: 'Ancient Artifact'
-date: '2015-12-09 13:04:38 UTC'
+title: Ancient Artifact
+date: 2015-12-09 13:04:38 Z
 ---
 
 From: T_REN  

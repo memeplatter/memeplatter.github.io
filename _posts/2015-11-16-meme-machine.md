@@ -1,6 +1,6 @@
 ---
-title: 'Meme Machine'
-date: '2015-11-16 15:32:16 UTC'
+title: Meme Machine
+date: 2015-11-16 15:32:16 Z
 ---
 
 From: Meme Machine  

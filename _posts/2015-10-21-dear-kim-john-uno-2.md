@@ -1,12 +1,14 @@
 ---
 title: Dear Kim John uno
+date: 2015-10-21 00:00:00 Z
+categories:
+- Uncategorized
 author: Memeplatter
 layout: post
 original_author:
-  - memeplatter@discordantgamers.com
-categories:
-  - Uncategorized
+- memeplatter@discordantgamers.com
 ---
+
 From: Doland Trump  
 Subject: Dear Kim John uno
 
