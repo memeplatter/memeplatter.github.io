@@ -1,6 +1,6 @@
 ---
-title: EDD Trenton Foster
-date: 2015-11-16 12:50:13 Z
+title: 'EDD Trenton Foster'
+date: '2015-11-16 12:50:13 UTC'
 ---
 
 From: Medium Sized Meme  

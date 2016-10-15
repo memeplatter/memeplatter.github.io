@@ -1,14 +1,12 @@
 ---
 title: Brent@shannet.bonerdog.org
-date: 2014-10-04 00:00:00 Z
-categories:
-- Uncategorized
 author: Memeplatter
 layout: post
 original_author:
-- memeplatter@thegamingfreakz.com
+  - memeplatter@thegamingfreakz.com
+categories:
+  - Uncategorized
 ---
-
 From: Brent  
 Subject: Brent@shannet.bonerdog.org
 

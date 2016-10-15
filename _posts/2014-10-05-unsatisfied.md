@@ -1,14 +1,12 @@
 ---
 title: Resatisfied
-date: 2014-10-05 00:00:00 Z
-categories:
-- Uncategorized
 author: Memeplatter
 layout: post
 original_author:
-- memeplatter@thegamingfreakz.com
+  - memeplatter@thegamingfreakz.com
+categories:
+  - Uncategorized
 ---
-
 From: hOLDEN lUCAS  
 Subject: Resatisfied
 

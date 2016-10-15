@@ -1,6 +1,6 @@
 ---
-title: MITCH AND BRENT
-date: 2015-11-16 12:56:02 Z
+title: 'MITCH AND BRENT'
+date: '2015-11-16 12:56:02 UTC'
 ---
 
 From: MitchBrent9023  

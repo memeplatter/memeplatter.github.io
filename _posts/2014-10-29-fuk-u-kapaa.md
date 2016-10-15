@@ -1,14 +1,12 @@
 ---
 title: fuk u kapaa
-date: 2014-10-29 00:00:00 Z
-categories:
-- Uncategorized
 author: Memeplatter
 layout: post
 original_author:
-- memeplatter@thegamingfreakz.com
+  - memeplatter@thegamingfreakz.com
+categories:
+  - Uncategorized
 ---
-
 From: not kapap  
 Subject: fuk u kapaa
 

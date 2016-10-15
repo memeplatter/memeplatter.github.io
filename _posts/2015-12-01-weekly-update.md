@@ -1,8 +1,8 @@
 ---
-title: Weekly Update
-date: 2015-12-01 12:32:10 Z
+title: 'Weekly Update'
+date: '2015-12-01 12:32:10 UTC'
 tags:
-- "??"
+    - '??'
 ---
 
 From: Big Goof  

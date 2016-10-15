@@ -1,11 +1,10 @@
 ---
-title: Scam House Motto
-date: 2014-10-15 01:05:42 Z
-permalink: "/about/"
 layout: page
+title: Scam House Motto
+date: 2014-10-15 01:05:42+00:00
+permalink: /about/
 author: trent
 ---
-
 *Due to popular request, the site now features an &#8216;About Us&#8217; tab. Thanks for the feedback, America.  
 (Most popular customer: Isis)*
 

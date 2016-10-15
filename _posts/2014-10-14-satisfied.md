@@ -1,14 +1,12 @@
 ---
 title: Satisfied!
-date: 2014-10-14 00:00:00 Z
-categories:
-- Uncategorized
 author: Memeplatter
 layout: post
 original_author:
-- memeplatter@thegamingfreakz.com
+  - memeplatter@thegamingfreakz.com
+categories:
+  - Uncategorized
 ---
-
 From: Trenterdingo  
 Subject: Satisfied!
 
